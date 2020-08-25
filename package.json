@@ -70,7 +70,7 @@
     "angular-datetime-range": "^0.4.0",
     "angular-scroll-events": "^0.0.3",
     "global": "^4.3.2",
-    "highcharts": "^6.1.0",
+    "highcharts": "^7.2.2",
     "highcharts-ng": "^1.2.1",
     "moment": "^2.22.1"
   }
